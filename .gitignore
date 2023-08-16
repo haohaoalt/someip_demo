@@ -1,3 +1,6 @@
+**/build/*
+/boost_1_72_0/*
+/vsomeip/*
 # Prerequisites
 *.d
 
